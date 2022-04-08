@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![DV_4](<img src=Rfs Bot.jpg>
+  [![DV_4](<img src=RfsBot.jpeg>
  https://github.com/Richuser_b1 |  
 ----|
 [IT'S FL](https://github.com/Richuser_b1)  |
