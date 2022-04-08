@@ -30,7 +30,7 @@
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
             "IM_NOT_ADMIN": "*i am not admin in this group...😥 sad bgm song please nanbaa🥺*",
             "BANNED": "ninne eni evide veda eragi poda get out in the name of father stupid edit😏",
-            "GIVE_ME_USER": "*given any one mention😎*",
+            "GIVE_ME_USER": "*give me any one tag or user of the person*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
             "ALREADY_PROMOTED": "```i am admin in this group```",
@@ -38,12 +38,12 @@
             "PROMOTE_DESC": "Makes any person an admin.",
             "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​ ✅️ 🇮​🇫​ 🇾​🇴​🇺​ 🇹​🇷​🇾​ 🇾​🇴​🇺​ 🇼​🇮​🇱​🇱​ 🇧​🇪​ 🇷​🇪​🇲​🇴​🇻​🇪​🇩​ 🇧​🇾​ 🇦​🇩​🇲​🇮​🇳​🇸​",
             "DEMOTE_DESC": "Takes the authority of any admin.",
-            "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
+            "ALREADY_NOT_ADMIN": "```How can I admin someone who is already admin. This bru is dom🤦🏽‍♂️?```",
             "DEMOTED": "```, has been demoted!```",
-            "MUTE_DESC": "Mute the group chat. Only the admins can send a message.",
-            "MUTED": "```Group muted....😉```",
-            "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
-            "UNMUTED": "```The group has unmuted....😘```",
+            "MUTE_DESC": "close the group chat. So that Only the admins can send a message.",
+            "MUTED": "```Group closed...```",
+            "UNMUTE_DESC": "open the group chat.so that Anyone can send a message.",
+            "UNMUTED": "```The group has open....😔🤚🏼```",
             "INVITE_DESC": "Provides the group's invitation link.",
             "INVITE": "```Invitation link: ```"
         },
@@ -74,9 +74,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Amalser Restarting...please wait Bro 5mints...😌```",
-            "SHUTDOWN_DESC": "Shutdown WhatsAsena",
+            "RESTART_DESC": "Restart DV_4 BOT",
+            "RESTART_MSG": "```DV_4 Restarting...please wait Bro 5 Mnts...😌```",
+            "SHUTDOWN_DESC": "Shutdown DV_4 🔰 🏴 ☢️ 📳 ⚠️ ",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -109,14 +109,15 @@
             "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME!```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅Amalser Welcome message has been set successfully ✅️*",
+            "WELCOME_SETTED": "*✅DV_4 Welcome message has been set successfully ✅️*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​ ✅️ 🇮​🇫​ 🇾​🇴​🇺​ 🇹​🇷​🇾​ 🇾​🇴​🇺​ 🇼​🇮​🇱​🇱​ 🇧​🇪​ 🇷​🇪​🇲​🇴​🇻​🇪​🇩​ 🇧​🇾​ 🇦​🇩​🇲​🇮​🇳​🇸​",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye Your Goodbye Message```",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
             "NEED_GOODBYE_TEXT": "*You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye Goodbye!```",
             "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-            "GOODBYE_SETTED": "*✅Amalser Goodbye message has been setted successfully ✅️*"
+            "GOODBYE_SETTED": "*✅DV_4 Goodbye message has been setted successfully ✅️*"
+   
         },
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
@@ -236,7 +237,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🧸✅  sanam set👍*",
             "UPDATED_LOCAL": "*✅ Successfully Updated 😍😍😍!*",
-            "AFTER_UPDATE": "*💘 Amalser Restarting  please wait 5mints*"
+            "AFTER_UPDATE": "*💘 DV_4 Restarting  please wait 5mints*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
