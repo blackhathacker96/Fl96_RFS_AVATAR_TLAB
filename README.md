@@ -6,7 +6,7 @@
   <img src=avatar.jpeg>
 
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+Click WA logo to Join dissing vibez Group. 👇
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FBm7zLrvl8aD74mZvHGFFZ) 
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![DV_4](<img src=RfsBot.jpeg>
- https://github.com/Richuser_b1 |  
+  [![DV_4 🔰 🏴 ☢️ 📳 ⚠️](<img src=RfsBot.jpeg>
+ https://github.com/blackhathacker96/Fl96_RFS_AVATAR_TLAB |  
 ----|
-[IT'S FL](https://github.com/Richuser_b1)  |
+[IT'S FL](https://github.com/blackhathacker96/Fl96_RFS_AVATAR_TLAB)  |
 Base, Bug Fixes, Modules | 
   
     
