@@ -5,12 +5,12 @@ Issues
 Marketplace
 Explore
  
-@richusir 
-richusir
+@fl96
+Dv4
 /
-RICHUSER_B1
+Fl96_RFS_AVATAR
 Public
-forked from richusir/RICHUSER_B1
+forked from https://github.com/blackhathacker96/Fl96_RFS_AVATAR_TLAB
 0
 1121
 Code
@@ -24,7 +24,7 @@ Settings
 RICHUSER_B1/bot.js /
 @richusir
 richusir Create bot.js
-Latest commit 21d64e4 on 9 Aug
+HuLatest commit 21d64e4 on 9 Aug
  History
  11 contributors
 @farhan-dqz@phaticusthiccy@yusufusta@richusir@lyfe00011@MuhammedKpln@saidalisaid2@afnanplk@Xenon67@oguz162@justinthoms
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Richuser working perfectly 💘')
+            chalk.green.bold('RFS DV_4 🔰 🏴 ☢️ 📳 ⚠️ working perfectly 💘')
         );
     });
     
@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'RICHUSERBOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'AVATAR BOT 🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
